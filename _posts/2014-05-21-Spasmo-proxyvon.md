@@ -5,7 +5,7 @@ permalink: /sp
 date:   2021-04-30 20:03:18 +0530
 categories: personal experience
 ---
-<img src="/images/sp.jpeg" width="300" height="200">
+<img src="/images/sp.jpeg" width="450" height="200">
 
 <H1><b>Introduction</b></H1>
 
@@ -17,7 +17,7 @@ The most common side effects are nausea, vomiting, constipation, dryness in mout
 
 Before taking this medicine, you should tell your doctor if you are pregnant, planning pregnancy or breastfeeding. You should also tell your doctor if you have any kidney or liver diseases so that your doctor can prescribe a suitable dose for you.
 
-<img src="/images/sada.jpeg" width="300" height="200">
+<img src="/images/sada.jpg" width="700" height="200">
 
 <H1><b>Spasmo Proxyvon Abuse</b></H1>
 Dextropropoxyphene and its various combinations
